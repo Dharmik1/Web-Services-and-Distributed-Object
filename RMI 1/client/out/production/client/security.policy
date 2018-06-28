@@ -1,0 +1,4 @@
+grant {
+     	permission java.util.PropertyPermission "idea.launcher.library ", "read";
+     	permission java.security.AllPermission;
+  };
